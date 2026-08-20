@@ -1,6 +1,6 @@
 # dmPFC Glucocorticoid Receptor Blockade and Fear Memory Network Reorganization
 
-This repository contains the analysis code supporting the manuscript **"Prefrontal cortex glucocorticoid receptors gate the balance between salience and default-mode retrieval networks during fear memory consolidation"** (Corrêa et al., submitted to *Current Biology*).
+This repository contains the analysis code supporting the manuscript **"Prefrontal cortex glucocorticoid receptors during fear memory consolidation shift the balance between salience and default-mode networks at retrieval in rats"** (Corrêa et al., submitted to *bioRxiv*).
 
 The scripts reproduce the c-Fos functional connectivity analyses, graph-theoretic metrics, permutation-based statistical thresholding, and behavioral–endocrine correlation analyses reported in the manuscript. Rats received bilateral intra-dmPFC infusions of vehicle (VEH) or the glucocorticoid receptor (GR) antagonist mifepristone (MIF) immediately after contextual fear conditioning, and were tested for fear memory retrieval at recent (2-day) or remote (14-day) time points, followed by c-Fos immunohistochemistry across hippocampal, amygdalar, and neocortical regions.
 
@@ -58,7 +58,8 @@ Outputs (CSV tables and PNG/EPS figures) are written to the `output/` directory 
 
 If you use this code, please cite:
 
-Corrêa et al. Prefrontal cortex glucocorticoid receptors gate the balance between salience and default-mode retrieval networks during fear memory consolidation. *Current Biology* (in preparation/submission).
+Corrêa et al. Prefrontal cortex glucocorticoid receptors gate the balance between salience and default-mode retrieval networks during fear memory consolidation. *bioRxiv* (in preparation/submission).
+Code archive: Corrêa, M.S. & Fornari, R.V. (2026). dmPFC_MIF: Analysis code for c-Fos functional connectivity and graph-theoretic characterization of fear memory networks (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.22025170
 
 ## Contact
 
